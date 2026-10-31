@@ -1,0 +1,4 @@
+Distance Metric,Divisive Strategy,Clusters (K),Min Cluster Size,Max Cluster Size,Singleton Clusters (size=1),Silhouette Score (↑),Davies–Bouldin Index (↓),Calinski–Harabasz Index (↑),Execution Time (s) (↓)
+Euclidean,Bisecting 2-Means (Inertia),26,5,817,0,0.1557,1.6729,768.85,2.2368
+Manhattan,Bisecting 2-Medians (L1 Disp),26,1,1101,2,0.1407,1.5631,660.59,0.8067
+Cosine,Spherical Bisecting 2-Means,26,19,652,0,0.2744,1.6262,1408.53,0.0979

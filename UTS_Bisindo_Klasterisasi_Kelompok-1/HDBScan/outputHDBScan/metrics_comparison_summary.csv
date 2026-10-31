@@ -1,0 +1,4 @@
+Distance Metric,Min Cluster Size (mcs),Clusters Found,Noise Samples (↓),Noise Ratio (%) (↓),Clustered Samples (↑),Silhouette Score (↑),Davies–Bouldin Index (↓),Calinski–Harabasz Index (↑),Execution Time (s) (↓)
+Euclidean,46,25,3937,49.88,3956,0.3486,0.7467,513.99,5.4956
+Manhattan,48,30,4905,62.14,2988,0.5479,0.7441,1265.49,5.6686
+Cosine,53,28,4210,53.34,3683,0.576,0.8203,1539.26,3.9883

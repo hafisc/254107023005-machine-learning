@@ -1,0 +1,4 @@
+Distance Metric,Epsilon (eps),Min Samples,Clusters Found,Noise Samples (↓),Noise Ratio (%) (↓),Core Samples (↑),Silhouette Score (↑),Davies–Bouldin Index (↓),Calinski–Harabasz Index (↑),Execution Time (s) (↓)
+Euclidean,4.015,10,26,892,11.3,6499,-0.0027,0.9884,255.36,0.1071
+Manhattan,28.35,10,26,1190,15.08,6241,0.2339,1.1751,233.62,0.6524
+Cosine,0.067,10,26,525,6.65,6787,-0.1727,1.0795,234.06,0.4648
