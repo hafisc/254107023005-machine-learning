@@ -1,0 +1,13 @@
+{
+  "algorithm": "SVM",
+  "variant": "SVM Polynomial",
+  "kernel": "poly",
+  "accuracy": 0.9208359721342622,
+  "precision": 0.9300710051273429,
+  "recall": 0.9208359721342622,
+  "f1_score": 0.9223099174837573,
+  "cv_f1_mean": 0.9087156392036126,
+  "cv_f1_std": 0.005086894604015395,
+  "train_time": 9.201402187347412,
+  "pred_time": 0.572357177734375
+}

@@ -1,0 +1,12 @@
+{
+  "algorithm": "NaiveBayes",
+  "variant": "BernoulliNB (Binarized)",
+  "accuracy": 0.4629512349588347,
+  "precision": 0.46982817647948155,
+  "recall": 0.4629512349588347,
+  "f1_score": 0.4263819061946589,
+  "cv_f1_mean": 0.41494392377386263,
+  "cv_f1_std": 0.0014543611816664312,
+  "train_time": 0.023721694946289062,
+  "pred_time": 0.006216764450073242
+}
