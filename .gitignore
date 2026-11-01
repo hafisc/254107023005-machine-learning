@@ -1,0 +1,13 @@
+# Large dataset archives (>100MB exceeds GitHub hard limit)
+JS14/dataset.zip
+JS14/cifar-10-python.tar.gz
+JS14/dataset/training_set/
+JS14/dataset/test_set/
+JS14/cifar-10-batches-py/
+
+# Python & OS temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+__MACOSX/
